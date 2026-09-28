@@ -21,13 +21,11 @@ I am currently looking for **entry-level roles, returnerships, or any other oppo
 
 ### 📂 Projects & Portfolio
 Here you can find my practical projects and case studies:
-* 📊 [Portfolio Repository Link](./your-portfolio-repo-name) — contains folders with SQL queries, dashboards, and analytical reports.
+* 📊 [Portfolio Repository Link](https://github.com/kate-vlasova/my-it-portfolio) — contains folders with SQL queries, dashboards, and analytical reports.
 
 > 📄 **My Resume:** Youత్తు can download my up-to-date PDF resume directly from the [portfolio repository](./your-portfolio-repo-name/resume.pdf).
 
 ---
 
 ### 📫 Get in Touch
-* 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-* ✈️ **Telegram:** [@your_telegram](https://t.me/your_telegram)
-* 📧 **Email:** your_email@example.com
+* 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ekaterina-vlasova-6739014a/)
