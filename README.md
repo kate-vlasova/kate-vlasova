@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Kate!
 
 Welcome to my portfolio! For 7 years, I worked as a Business & Systems Analyst in Russia.   
 After relocating to the US, I decided to pivot my career toward Data and BI Analytics. 
